@@ -1,0 +1,9 @@
+
+# install mongo
+brew install mongodb
+
+# start mongo daemon
+mongod run --config /usr/local/etc/mongod.conf
+
+# install gems
+gem install mongo mongo_mapper nokogiri bson bson_ext
