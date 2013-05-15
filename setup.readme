@@ -6,4 +6,5 @@ brew install mongodb
 mongod run --config /usr/local/etc/mongod.conf
 
 # install gems
+# (or execute bundle)
 gem install mongo mongo_mapper nokogiri bson bson_ext
