@@ -2,7 +2,7 @@ A Ruby class to crawl a website using Nokogiri, MongoDB database, and MongoMappe
 
 Usage:
 
-1. read [blog post](http://ericlondon.com/posts/249-a-ruby-class-to-crawl-a-website-using-nokogiri-mongodb-database-and-mongomapper-orm)
+1. read [blog post](http://ericlondon.com/2012/07/29/a-ruby-class-to-crawl-a-website-using-nokogiri-mongodb-database-and-mongomapper-orm.html)
 2. setup.readme
 3. usage.rb:
 
